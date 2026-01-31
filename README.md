@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snoop</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
 
-- 🔭 I’m currently working on [Catania Roleplay](https://discord.gg/NWudDyKwNt)
+- 🔭 I’m currently working on [Core Development](https://discord.gg/NWudDyKwNt)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/SnoopAT](https://linktr.ee/SnoopAT)
 
